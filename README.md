@@ -1,4 +1,4 @@
-Grupo de Estudos
+Grupo de Estudos da AGES com a Preto no Branco
 
 Sprint 1
 
